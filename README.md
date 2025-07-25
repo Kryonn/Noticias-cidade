@@ -1,8 +1,9 @@
 # 📰 Projeto Site de Notícias
 
 Este é um projeto desenvolvido com **HTML** e **CSS**, criado com o objetivo de praticar e consolidar os fundamentos das duas tecnologias. O site simula a estrutura de um portal de notícias e conta com diferentes modelos de layout.
-
-![Image](https://github.com/user-attachments/assets/edaa555d-11d3-4fbf-94a9-1d19e65202b9)
+<p align="center">
+  <img src="img/img1.jpeg" width="800px" position="center">
+</p>
 
 ## 💡 Objetivos
 

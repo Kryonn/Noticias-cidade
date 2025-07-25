@@ -18,4 +18,8 @@ Este é um projeto desenvolvido com **HTML** e **CSS**, criado com o objetivo de
 - 🔹 Uso de **formulários** e **listas**
 - 🔹 **Três tipos de layout**
 
+## ✒️ Autor
+
+* **Kevin Nakashima** - [Dev](https://github.com/Kryonn).
+
 ###### Udemy
